@@ -1,0 +1,19 @@
+.welcome1 {
+  text-align: center;
+  justify-content: center;
+}
+
+.welcome2 {
+  text-align: center;
+  justify-content: center;
+  font-size: 3em;
+}
+
+button {
+  font-size: large;
+  background-color: crimson;
+}
+
+* {
+  background: yellowgreen;
+}
