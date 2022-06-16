@@ -17,3 +17,9 @@ button {
 * {
   background: yellowgreen;
 }
+
+.mid {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
